@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Trademark bad!  Trademark Good!
+comments: true
 ---
 
 Tangram is great puzzler.  My daughter loves her new gift and plays with her calendar tangram puzzles almost everyday.  So, a few days ago during an unscheduled visit to my daughters class I patted myself on-the-back for marrying the right person.  My wife chose the school, and then I met with the teacher because I am paranoid about my children.  It is the perfect school for my daughter, one activity reassured me.
