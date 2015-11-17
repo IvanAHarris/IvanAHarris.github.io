@@ -9,7 +9,13 @@ I walked into the classroom without hesitation and asked, "Is it lunchtime?". I 
 
 How great is that!  Really great in my humble opinion.  So, to the interesting point, what the children were accomplishing.
 
-All the students of this class were in a circle and for the next twenty minutes they discussed should shop owners have the right to trademark and should there be trademarks if already created in their class business project.  This class is a mixed age classroom with an age range from kindergarten to 6 grade, so for this build-your-business project (slogans, cute commercials via iMovie, flyers, pictures of products, etc) one older student started trademarking their items and telling other students they are infringing on his TM.  The teachers stated that the kids should explain the problem so a solution can be found. The kids described it some what like this, talking over each other like someone aske what do you want for Christmas:
+
+
+All the students of this class were atop a blue dot pasted on the floor, in a circle,
+
+![Classroom Sitting Area](/images/classroomphotos/LeftCorner_1.jpg "See the blue dots on the floor?")
+
+and for the next twenty minutes they discussed should shop owners have the right to trademark and should there be trademarks if already created in their class business project.  This class is a mixed age classroom with an age range from kindergarten to 6 grade, so for this build-your-business project (slogans, cute commercials via iMovie, flyers, pictures of products, etc) one older student started trademarking their items and telling other students they are infringing on his TM.  The teachers stated that the kids should explain the problem so a solution can be found. The kids described it some what like this, talking over each other like someone aske what do you want for Christmas:
 
 "He said I could not sell a cat picture because he created a cat picture and trademarked it."  
 "He said I could not sell a my picture of a giraffe mixed with a kangaroo because he drew a picture with a giraffe mixed with a kangaroo and trademarked."
