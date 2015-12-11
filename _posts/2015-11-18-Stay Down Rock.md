@@ -4,7 +4,7 @@ title: Somebody Call the Doctor!  He is Down for the Count!
 ---
 Quit: stop or discontinue (an action or activity). *New Oxford American Dictionary*
 
-Bobby Jindal quit, Kobe Bryant has not quit, President of the University of Missouri system did quit (forcibly!), Jon Stewart quit, the Rolling Stones will never quit.  
+Bobby Jindal quit, Kobe Bryant has not quit [update: 12-10-15 this season is his last, Quitter], President of the University of Missouri system did quit (forcibly!), Jon Stewart quit, the Rolling Stones will never quit.  
 
 ![Familiar words](http://ecx.images-amazon.com/images/I/61QPcL8EpxL._SY355_.jpg)
 
