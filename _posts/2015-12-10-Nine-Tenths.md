@@ -32,7 +32,7 @@ Five minutes into the ride and Miss Obvious enters the bus.  She is 60-plus year
 
 Miss Obvious stops waving to steady herself in the bus and then as she walks she waves again with her right hand in front of face.  Not a sound or any indication of motion behind me.  Miss Obvious waves again, full hand, wrist, elbow swaying, with a grin begging for acknowledgement.  Nothing coming from behind me.
 
-Miss Obvious approaches a seat adjacent to mine, and with full swing of her cauldron bag rids herself of that weight on the seat.  She turns in less than a millisecond to me and looks at my cradled baby and crackles, 
+Miss Obvious approaches a seat adjacent to mine, and with full swing of her cauldron bag rids herself of that weight.  She turns in less than a millisecond to me and looks at my cradled baby and crackles, 
 ![I need a closer look](http://inthepowderroom.com/wp-content/uploads/2014/09/Old-Lady-Holes-In-the-Powder-Room.jpg "Is that your baby?")
 
 "Is that you baby?"
@@ -43,7 +43,7 @@ I reply, "Is that your coat?"
 
 "Is that your coat?"
 
-She crackles and reaches out with her black gloved hand, "Well their so cute, is that yours?"
+She then reaches out with her black gloved hand and says, "Well their so cute, is that yours?"
 
 I push her hand away and I warn her, "Don't touch.  Take a seat."
 
@@ -65,7 +65,7 @@ Silver Top then moves from her current seat to a seat about five seats behind Mi
 
 Miss Obvious greets Silver Top and receives the terse response, "Don't Talk to Me." 
 
-Are you thinking - ** WTF!  WHAT!  HOW does she know...why are they...whatever.  WTF-ever. **
+Are you thinking - **WTF!  WHAT!  HOW does she know...why are they...whatever.  WTF-ever.**
 
 I wish I could just wear Silver Top's response sometimes, and that day I really needed that response on my shirt.
 
