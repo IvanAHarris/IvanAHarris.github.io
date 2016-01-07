@@ -49,7 +49,7 @@ url: iivan.info
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 collections:
-- Happy
+- _Happy
 #
 # !! You don't need to change any of the configuration flags below !!
 #
