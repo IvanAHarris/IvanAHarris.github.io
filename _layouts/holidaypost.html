@@ -5,9 +5,20 @@ layout: default
 <article class="post">
   <h1>{{ page.title }}</h1>
   <div class="entry">
-    {{ content }}
-  </div>
-
+	  {{content}}
+	</div>
+	<div>
+    <ul>
+  		{% for image in site.HappyHolidays.files%}
+		<li>
+		  
+		  <img src="{{image.path |img_url: 'medium'}}">
+		
+		</li>
+		{% endfor %}
+	</ul>
+  
+	</div>  
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
