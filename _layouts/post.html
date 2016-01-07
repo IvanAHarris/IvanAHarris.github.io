@@ -9,9 +9,9 @@ layout: default
     {{ content }}
   </div>
 	
-	{%if pic%}
+	{% if pic %}
 		{% for image in site.Happy.files %} 
-			<img src="{{ image | image.url: 'small' }}">
+			<img src="{{image.path}}">
 		{% endfor %}
 	
 
