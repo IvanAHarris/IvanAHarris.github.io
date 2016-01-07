@@ -4,9 +4,16 @@ layout: default
 
 <article class="post">
   <h1>{{ page.title }}</h1>
+
   <div class="entry">
     {{ content }}
   </div>
+	
+	{%if pic%}
+		{% for image in site.Happy.files %} 
+			<img src="{{ image | image.url: 'small' }}">
+		{% endfor %}
+	
 
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}

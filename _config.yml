@@ -48,7 +48,8 @@ url: iivan.info
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
-
+collections:
+- Happy
 #
 # !! You don't need to change any of the configuration flags below !!
 #
