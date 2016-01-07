@@ -4,10 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-Fancy Pants
-
 # More Information
-Find your way home through love and perservance.
+Ivan Harris, stay at home dad.  Currently in Bloomington, Indiana.  Father of two daughters.  I like hugs.
 
 ## Contact me
 
