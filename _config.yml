@@ -48,8 +48,6 @@ url: iivan.info
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
-collections:
-- Happy
 #
 # !! You don't need to change any of the configuration flags below !!
 #
@@ -68,8 +66,7 @@ sass:
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-
-# Exclude these files from your production _site
+  # Exclude these files from your production _site
 exclude:
     - Gemfile
     - Gemfile.lock

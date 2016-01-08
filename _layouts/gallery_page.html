@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<article class="post">
+  <h1>{{ page.title }}</h1>
+
+  <div class="entry">
+    {{ content }}
+	  <div class="christmaspics">
+		  {% for i in site.static_files %}
+			{% if i.path contains 'ChristmasTime' %}
+				<img src= {{i.path}} width="400" height="400"</h2>
+			{% endif %}
+
+		  {%endfor%}
+	  </div>
+  </div>
+	
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
+
+  {% include disqus.html %}
+
+</article>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.cycle/3.03/jquery.cycle.all.min.js"></script>
+<script>
+	$(".christmaspics").cycle({
+		fx: 'scrollRight',
+		delay: -1000,
+		next: '.christmaspics'
+	});
+</script>
