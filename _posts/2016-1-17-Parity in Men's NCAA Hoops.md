@@ -17,7 +17,7 @@ Statistics: the practice or science of collecting and analyzing numerical data i
 
 So I searched Google and found -competitive balance- [Encyclopedia of Sport Management and Marketing](https://books.google.com/books?id=gDp1AwAAQBAJ&lpg=PA1831&ots=eeHxp3DgAK&dq=ncaa%20relative%20standard%20deviation&pg=PA256#v=onepage&q&f=false) and [an article about parity](http://www.sloansportsconference.com/?p=12728) which led me to another article [about parity range](https://mpra.ub.uni-muenchen.de/43088/1/MPRA_paper_43088.pdf).  So I did some searching on EBSCOHOST and LexisNexus and scratched my balls while thinking. I think margin of victory is important because the game of basketball provides more opportunities to score and the scoring is varied with free throws as one point, two pointers, and long range three pointers.  A better team will not only win the game, they will win a game by large margin because they are not shooting with luck on their side, they are shooting with skill; flip side they will defend their basket well causing their opponent to shoot a percentage much less than luck or chance.  So they should score consistently and cause others to not score, consistently.  Parity measurements have to include these factors and many others ... Alas, I gave myself a week to complete this little project so I chose to only focus on one established method for assessing parity and not try to write a thesis on this because that is a real possibility with all the possible variables to consider.  
 
-I decided to use the idealized standard deviation to find a parity range using that year's mean winning percentage.  In other words out of like 300 teams were there a lot, like 50 - 60%, of the teams winning 50%, better yet between +-1 idealized standard deviation from the mean, of their games, if so; **this could** signs of true love and or parity.  That may not the best explanation but I hope makes it a little bit clearer.  
+I decided to use the idealized standard deviation to find a parity range using that year's mean winning percentage.  In other words out of like 300 teams were there a lot, like 50 - 60%, of the teams winning 50%, better yet between +-1 idealized standard deviation from the mean, of their games, if so; **this could** be a sign of true love and/or parity.  
 
 Now that I am writing this I am bored, I am bored writing about my own experience.  There were some cool steps in this process; reading about relative standard deviation and competitive balance, grabbing data from [Sports Reference](http://www.sports-reference.com/cbb/seasons/) (a great site for sports fans), re-reading about idealized standard deviation and parity, converting CSV into SQL instructions (just for skill-building), using Excel to perform all the calculations, part of this process was completed while watching football and old Project Runway episodes on my second monitor.  
 
@@ -29,6 +29,6 @@ And a poem, of sorts,
 
 >The players so great	
 >Never stay too late	
->No reasons to wait	
->When money could make
+>No reasons to wait		
+>When money could make	
 
