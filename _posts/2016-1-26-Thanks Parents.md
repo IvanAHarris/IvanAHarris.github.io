@@ -19,6 +19,6 @@ That is life, a party you never asked to attend.
 
 Parental relationships are probably the catalyst for the concepts and practice of debt.  Parents are the creditors and children debtors.  
 
-My inspiration for this line of thinking really stems from becoming a parent in 2009 and remembering a statement in a song; it is kind of a appeal to parents by [!Cam'Ron](https://youtu.be/T3bp8FsGai8) to remember children do not ask to be neglected.  Life is not a debt to be paid back in terms set by parents.  This concept of debt must have roots in parenting and birth; some parents believing that their children owe their parents for providing life and, hopefully, welfare.  Original Sin turns into Original Debt.
+My inspiration for this line of thinking really stems from becoming a parent in 2009 and remembering a statement in a song; it is kind of a appeal to parents by [Cam'Ron](https://youtu.be/T3bp8FsGai8) to remember children do not ask to be neglected.  Life is not a debt to be paid back in terms set by parents.  This concept of debt must have roots in parenting and birth; some parents believing that their children owe their parents for providing life and, hopefully, welfare.  Original Sin turns into Original Debt.
 
 Just some thoughts.
